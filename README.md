@@ -1,20 +1,14 @@
 ## Client did not pay?
 
+Add opacity to the body tag and decrease it every day until their site completely fades away. Set a due date and customize the number of days you offer them until the website is fully vanished. 
 
-Add opacity to the body tag and increase it every day until their site completely fades away. Set a due date and customize the number of days you offer them until the website is fully vanished. 
-
-
-```javascript
-/* change these variables as you wish */
-	var due_date = new Date('2017-02-27');
-	var days_deadline = 60;
-/* stop changing here */
-```
 
 ## Usage
-Just load the .js file in ```<head>```
+Just edit the due date and the deadline days parameter at the end of the script and then load the script in ```<head>```
+
 
 ## Author
 
 Inspired from twitter (@riklomas)
 Made by Ciprian, Romania
+
