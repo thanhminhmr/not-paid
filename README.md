@@ -9,6 +9,5 @@ Just edit the due date and the deadline days parameter at the end of the script 
 
 ## Author
 
-Inspired from twitter (@riklomas)
-Made by Ciprian, Romania
+Inspired from twitter (@riklomas). Made by Ciprian, Romania. Edited by *thanhminhmr*
 
